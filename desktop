@@ -80,8 +80,8 @@ Fonts:
  * (kde-config-sddm)
  * (user-manager)
  * (plasma-pa)
- * (plymouth-theme-breeze)
- * (grub-theme-breeze)
+ * (plymouth-theme-superx)
+ * (grub-theme-superx)
  * (kde-config-plymouth)
  * (plasma-vault)
  * (plasma-workspace-wayland)
@@ -119,8 +119,7 @@ Fonts:
  * (qml-module-qtquick-xmllistmodel)
  * (qml-module-qtgraphicaleffects)
  * xdg-user-dirs
- * sddm-theme-breeze
- * superx-settings
+ * superx-desktop-settings
  * neon-keyring
  * superx-keyring
  * software-properties-common
