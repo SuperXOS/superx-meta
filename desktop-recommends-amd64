@@ -20,7 +20,7 @@ frameworkintegration
 fwupd
 fwupdate
 fwupdate-signed
-grub-theme-breeze
+grub-theme-superx
 gwenview
 hplip
 kde-config-gtk-style
@@ -54,7 +54,7 @@ plasma-vault
 plasma-wallpapers-addons
 plasma-widgets-addons
 plasma-workspace-wayland
-plymouth-theme-breeze
+plymouth-theme-superx
 policykit-desktop-privileges
 polkit-kde-agent-1
 print-manager
