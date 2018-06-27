@@ -1,0 +1,12 @@
+Package: superx-live
+Source: superx-meta
+Version: 5.0
+Architecture: amd64
+Maintainer: Libresoft CI <ci@libresoft.in>
+Installed-Size: 8
+Depends: btrfs-tools, jfsutils, reiserfsprogs, ubiquity-frontend-kde, ubiquity-slideshow-superx, wamerican, xfsprogs
+Section: metapackages
+Priority: optional
+Description: SuperX Live system
+ Used to make SuperX live images, this metapackage is of no use on an
+ installed system.

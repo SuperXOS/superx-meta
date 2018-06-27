@@ -1,0 +1,3 @@
+germinate:Depends=btrfs-tools, jfsutils, reiserfsprogs, ubiquity-frontend-kde, ubiquity-slideshow-superx, wamerican, xfsprogs
+misc:Depends=
+misc:Pre-Depends=

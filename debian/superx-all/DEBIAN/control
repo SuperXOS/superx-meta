@@ -1,0 +1,11 @@
+Package: superx-all
+Source: superx-meta
+Version: 5.0
+Architecture: amd64
+Maintainer: Libresoft CI <ci@libresoft.in>
+Installed-Size: 8
+Depends: artikulate, blinken, bomber, bovo, calligra, cantor, cervisia, colord-kde, digikam, dolphin-plugins, ffmpegthumbs, filelight, gammaray, granatier, heaptrack, k3b, kaccounts-integration, kaffeine, kalgebra, kalzium, kamera, kamoso, kanagram, kapman, kapptemplate, kate, katomic, kblackbox, kblocks, kbounce, kbreakout, kbruch, kcachegrind, kcalc, kcharselect, kcolorchooser, kcron, kdebugsettings, kdeconnect, kdegraphics-mobipocket, kdegraphics-thumbnailers, kdenetwork-filesharing, kdenlive, kdesdk-scripts, kdesdk-thumbnailers, kdevelop, kdevelop-php, kdevelop-python, kdf, kdiamond, kexi, kfind, kfloppy, kfourinline, kgeography, kgpg, kgraphviewer, khangman, khelpcenter, kig, killbots, kio-gdrive, kio-perldoc, kio-stash, kiriki, kiten, kjots, kjumpingcube, klettres, klickety, klines, kmahjongg, kmarkdownwebview, kmines, kmplot, kmymoney, knavalbattle, knetwalk, kollision, kompare, konqueror, kontact, konversation, kpat, kpmcore, krdc, krfb, krita, kronometer, kruler, kshisen, ksquares, kstars, ksystemlog, kteatime, ktexteditorpreviewplugin, ktimer, ktouch, ktuberling, kturtle, kuser, kwave, kwordquiz, labplot, lokalize, marble, massif-visualizer, minuet, muon, okteta, parley, partitionmanager, peruse, picmi, poxml, rocs, signon-kwallet-extension, skanlite, skrooge, smb4k, spectacle, step, tellico, umbrello, yakuake, zanshin
+Section: metapackages
+Priority: optional
+Description: All Applications Built in SuperX
+ A meta package to install all applications built as part of SuperX.

@@ -1,0 +1,33 @@
+Source: superx-meta
+Section: metapackages
+Priority: optional
+Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
+Vcs-Git: https://code.libresoft.in/superx-meta
+Vcs-Browser: https://code.libresoft.in/superx-meta.git
+Maintainer: Libresoft CI <ci@libresoft.in>
+
+Package: superx-desktop
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: SuperX Desktop
+ This package depends on a sensible desktop for SuperX. Installing this
+ package will include the default Plasma Desktop.
+ .
+ This package is also used by the updater to upgrade to new versions.
+
+Package: superx-live
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: SuperX Live system
+ Used to make SuperX live images, this metapackage is of no use on an
+ installed system.
+
+Package: superx-all
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: All Applications Built in SuperX
+ A meta package to install all applications built as part of SuperX.
