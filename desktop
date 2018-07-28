@@ -121,6 +121,7 @@ Fonts:
  * xdg-user-dirs
  * superx-desktop-settings
  * neon-keyring
+ * superx-desktop
  * superx-keyring
  * software-properties-common
  * fonts-noto-hinted # Plasma's default font, we want this!
