@@ -7,6 +7,8 @@ breeze
 ca-certificates
 fonts-hack-ttf
 fonts-noto-hinted
+superx-fonts
+fonts-symbola
 foomatic-db-compressed-ppds
 genisoimage
 ghostscript-x
@@ -27,9 +29,14 @@ neon-hardware-integration
 neon-keyring
 superx-keyring
 superx-desktop-settings
+superx-system
+superx-look-and-feel
+superx-window-decoration
+superx-sources
 openprinting-ppds
 oxygen-sounds
 plasma-desktop
+plasma-widget-superxmenu
 pm-utils
 powerdevil
 printer-driver-pnm2ppa
