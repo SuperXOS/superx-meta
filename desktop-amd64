@@ -25,6 +25,7 @@ kwrited
 libsasl2-modules
 lvm2
 memtest86+
+muon
 neon-hardware-integration
 neon-keyring
 superx-keyring
