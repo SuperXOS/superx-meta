@@ -31,3 +31,10 @@ Depends: ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: All Applications Built in SuperX
  A meta package to install all applications built as part of SuperX.
+
+ Package: superx-arbas18
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Customized Version of SuperX for ARBAS 2018.
+ A meta package to install all applications distributed in ARBAS 2018 laptops.
