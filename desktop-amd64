@@ -84,7 +84,6 @@ xkb-data
 xorg
 xserver-xorg-video-intel-arbiter
 zip
-zram-config
 ibus
 ibus-qt4
 ibus-gtk
