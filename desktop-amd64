@@ -15,6 +15,7 @@ debhelper
 devscripts
 dpkg-dev
 flac
+filelight
 fonts-hack-ttf
 fonts-noto-hinted
 superx-fonts
