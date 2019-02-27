@@ -31,6 +31,14 @@ Depends: ${germinate:Depends}, ${misc:Depends}
 Recommends: ${germinate:Recommends}
 Description: All Applications Built in SuperX
  A meta package to install all applications built as part of SuperX.
+ 
+Package: superx-drivers
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Drivers for SuperX
+A meta package to install various hardware drivers as part of SuperX.
+ 
 
 Package: superx-arbas18
 Architecture: any
