@@ -9,6 +9,7 @@ breeze
 build-essential
 ca-certificates
 cabextract
+cheese
 cups-pdf
 davfs2
 debhelper
