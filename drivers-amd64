@@ -49,7 +49,6 @@ xserver-xorg-input-synaptics
 xserver-xorg-input-void
 xserver-xorg-video-amdgpu
 xserver-xorg-video-fbdev
-xserver-xorg-video-intel
 xserver-xorg-video-qxl
 xserver-xorg-video-radeon
 xserver-xorg-video-nouveau
