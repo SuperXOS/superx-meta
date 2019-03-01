@@ -15,11 +15,13 @@ curl
 desktop-file-utils
 dolphin
 drkonqi-pk-debug-installer
+filezilla
 firefox
 frameworkintegration
 fwupd
 fwupdate
 fwupdate-signed
+gimp
 grub-theme-superx
 gwenview
 hplip
@@ -30,6 +32,7 @@ kde-config-sddm
 kde-spectacle
 kdialog
 kimageformat-plugins
+konversation
 konsole
 kscreen
 ksshaskpass
