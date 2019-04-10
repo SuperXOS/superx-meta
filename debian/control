@@ -39,6 +39,13 @@ Recommends: ${germinate:Recommends}
 Description: Drivers for SuperX
  A meta package to install various hardware drivers as part of SuperX.
  
+Package: superx-games
+Architecture: any
+Depends: ${germinate:Depends}, ${misc:Depends}
+Recommends: ${germinate:Recommends}
+Description: Games for SuperX
+ A meta package to install all games built as part of SuperX.
+ 
 Package: superx-arbas18
 Architecture: any
 Depends: ${germinate:Depends}, ${misc:Depends}
