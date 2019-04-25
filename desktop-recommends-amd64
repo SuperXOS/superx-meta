@@ -49,8 +49,6 @@ pcmciautils
 phonon-backend-vlc
 phonon4qt5-backend-vlc
 plasma-dataengines-addons
-plasma-discover
-plasma-discover-updater
 plasma-nm
 plasma-pa
 plasma-runners-addons
