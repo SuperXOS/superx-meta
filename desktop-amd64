@@ -73,6 +73,7 @@ plasma-widget-superxmenu
 pm-utils
 powerdevil
 printer-driver-pnm2ppa
+python3-pyqt5
 qttranslations5-l10n
 rfkill
 samba
